@@ -8,4 +8,4 @@ PHP rocks beacuse he is easy to understand for a beginner like me but yeah, he g
 
 I know some extent of html css js jquery json ajax php mysql and java.
 
-Hi,i hacked this file lol by FJ#
+Hi,i hacked this file by FJ#
